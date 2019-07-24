@@ -14,7 +14,7 @@
     public ViewGroup listProductName;
     public TextView txtPriceSummary;
     public TextView txtTimePattern;
-//阿达
+
     public TextView txtOrderSummary;
     public TextView btnPayNow;
     public TextView btnCommentNow;
