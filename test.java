@@ -10,6 +10,7 @@
     public TextView txtStoreTitle;
     public TextView txtOrderState;
 
+//oooooooaaaa
     public ViewGroup listProductIcon;
     public ViewGroup listProductName;
     public TextView txtPriceSummary;
