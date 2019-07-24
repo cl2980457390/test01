@@ -9,7 +9,7 @@
     public TextView itemtype;
     public TextView txtStoreTitle;
     public TextView txtOrderState;
-
+//xx
     public ViewGroup listProductIcon;
     public ViewGroup listProductName;
     public TextView txtPriceSummary;
